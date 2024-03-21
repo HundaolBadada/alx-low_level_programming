@@ -1,1 +1,1 @@
-git commit -m '101-wildcmp.c'
+0x14-bit_manipulation
